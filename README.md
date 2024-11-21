@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://preview.redd.it/422mbdtusfc21.gif?width=240&auto=webp&s=85ddd150518504cc53d47a2cb291093cf66e12bc)](https://imgur.com/a/sFPKyDk)"  />
+<img align="right" height="150" src="[[[https://i.imgflip.com/65efzo.gif](https://preview.redd.it/422mbdtusfc21.gif?width=240&auto=webp&s=85ddd150518504cc53d47a2cb291093cf66e12bc)](https://imgur.com/a/sFPKyDk)](https://imgflip.com/memetemplate/391795735/anime-thinking)"  />
 
 ###
 
