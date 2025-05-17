@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Currently working on: Mod Loader for Smash Legends</p>
+<p align="left">Currently working on: Nothing</p>
 
 ###
 
