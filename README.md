@@ -12,7 +12,7 @@
       </td>
       <td>
         <b>Yui</b><br>
-        artist • coder • chaos<br>
+        artist • coder • music<br>
         <sub>I make pretty things hurt.</sub>
       </td>
     </tr>
@@ -22,10 +22,9 @@
 ---
 
 ### About
-- Drawing and code.
+- I Like drawing and do random stuff when coding
 - Prefers purple / black / white.
-- Geocities-era aesthetics, tables forever.
-
+- 
 ---
 
 ### Links
@@ -33,10 +32,8 @@
   <a href="https://discord.com/users/579784411441135636">
     <img src="assets/buttons/discord-88x31.png" alt="Discord" width="88" height="31">
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="assets/buttons/github-88x31.png" alt="GitHub" width="88" height="31">
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  
+  <a href="https://instagram.com/lxrylex">
     <img src="assets/buttons/instagram-88x31.png" alt="Instagram" width="88" height="31">
   </a>
 </p>
