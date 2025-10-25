@@ -1,7 +1,7 @@
 <!-- Retro-styled GitHub profile (no JS/CSS, no emojis) -->
 
 <div align="center">
-  <img src="assets/banner.gif" alt="Welcome banner" width="820">
+  <img src="assets/banner.gif" alt="Welcome banner" width="820" height="238">
 
   <h1>Yui’s Old-Net Corner</h1>
 
