@@ -28,8 +28,8 @@
     <a href="https://discord.com/users/579784411441135636">
        Discord
   </a>
-  
-  <a href="https://instagram.com/lxrylex">
+</br>
+  <a href="https://instagram.com/lxdasu">
     Instagram
   </a>
 </p>
