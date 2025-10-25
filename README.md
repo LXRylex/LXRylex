@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/banner.gif" alt="Welcome banner" width="820" height="238">
 
-  <h1>Yui’s Old-Net Corner</h1>
+  <h1>Yui’s Corner</h1>
 
   <table>
     <tr>
