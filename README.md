@@ -26,10 +26,8 @@
 ### Links
 <p align="center">
   <a href="https://discord.com/users/579784411441135636">
-    <img src="assets/buttons/discord-88x31.png" alt="Discord" width="88" height="31">
   </a>
   
   <a href="https://instagram.com/lxrylex">
-    <img src="assets/buttons/instagram-88x31.png" alt="Instagram" width="88" height="31">
   </a>
 </p>
