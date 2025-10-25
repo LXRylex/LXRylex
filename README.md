@@ -25,9 +25,11 @@
 
 ### Links
 <p align="center">
-  [Discord: yuilix](https://discord.com/users/579784411441135636)
+    <a href="https://discord.com/users/579784411441135636">
+       Discord
   </a>
   
   <a href="https://instagram.com/lxrylex">
+    Instagram
   </a>
 </p>
