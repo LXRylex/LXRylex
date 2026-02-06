@@ -19,8 +19,7 @@
 
 ### About
 - I Like drawing and do random stuff when coding
-- Prefers purple / black / white.
-- 
+- Prefers purple / black / white. 
 ---
 
 ### Links
