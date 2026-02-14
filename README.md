@@ -1,34 +1,6 @@
-<!-- Retro-styled GitHub profile (no JS/CSS, no emojis) -->
+# Welcome to my profile!
 
-<div align="center">
-  <img src="assets/banner.gif" alt="Welcome banner" width="820" height="238">
+I'am a student still, learning backend/extension development. I try to provide a decent experience as much as possible on the projects i make.
+since im still in school i may have some difficulities finding time to update the projects but eh i try to as much as i can
 
-  <h1>Yui’s Corner</h1>
-
-  <table>
-    <tr>
-      <td>
-        artist • coder • music<br>
-        <sub>I make pretty things hurt.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### About
-- I Like drawing and do random stuff when coding
-- Prefers purple / black / white. 
----
-
-### Links
-<p align="center">
-    <a href="https://discord.com/users/579784411441135636">
-       Discord
-  </a>
-</br>
-  <a href="https://instagram.com/lxdasu">
-    Instagram
-  </a>
-</p>
+Other than that i really love drawing and playing games such as horror or action based ones xd oh and i like ducks :D
